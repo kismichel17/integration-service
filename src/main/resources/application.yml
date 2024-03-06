@@ -1,0 +1,7 @@
+company:
+  object-mapper:
+    write-instant-as-timestamp: true
+
+logging:
+  level:
+    ru.kismi: INFO
